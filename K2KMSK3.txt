@@ -168,7 +168,7 @@ DATA "_"
 '=====
 @NEWLINEPOS
  POSX=BASEPOSX
- POSY=POSX+8
+ POSY=POSY+8
  RETURN
 
 '=====================
